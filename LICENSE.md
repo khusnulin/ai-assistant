@@ -1,4 +1,4 @@
-**END USER LICENSE AGREEMENT (EULA) FOR [НАЗВАНИЕ ВАШЕГО ПЛАГИНА]**
+**END USER LICENSE AGREEMENT (EULA) FOR "Lightweight AI Assistant"**
 
 Last modified: 16 July 2026
 
